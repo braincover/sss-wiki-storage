@@ -14,8 +14,12 @@
 
 聯手揭開了王國最黑暗的一面(並沒有)
 
-
 -----
 
+### 目錄
 [人物介紹](character/list)
 [地理位置](location/list)
+
+
+### 編輯指南
+[Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
