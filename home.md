@@ -17,6 +17,7 @@
 # 目錄
 [人物介紹](character/list)
 [地理位置](location/list)
+[勢力組織](organization/list)
 
 # 編輯指南
 [Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
