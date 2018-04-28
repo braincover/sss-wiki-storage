@@ -1,7 +1,7 @@
 <!-- TITLE: 首頁 -->
 <!-- SUBTITLE: 安安我首頁ㄛ -->
 
-# 緣起
+# 緣起(https://docs.google.com/presentation/d/1GH4kh614wnb9shZDl8PygpDIx2xpQTmc8nKPw383FZU/edit#slide=id.g2d32c2a58f_0_0)
 滅門血案的倖存者…
 
 貴族世家的私生子…
