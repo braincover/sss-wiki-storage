@@ -1,4 +1,4 @@
 <!-- TITLE: Sweeper 3536 -->
-<!-- SUBTITLE:『使用TC130心靈錯位器』(誤) CV：杉田智和-->
+<!-- SUBTITLE:『我真的不是禪亞塔』(誤) CV：杉田智和-->
 
 # Header
