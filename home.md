@@ -23,3 +23,4 @@
 
 # 編輯指南
 [Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
+[D&D 5E 中文化](https://trpgtdnd.weebly.com/)
