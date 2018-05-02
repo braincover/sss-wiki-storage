@@ -10,7 +10,7 @@
 
 來路不明的野蠻人…
 
-四個出身大相徑庭的冒險者齊聚一堂，~~聯手揭開了王國最黑暗的一面~~(並沒有)
+四個出身大相徑庭的冒險者齊聚一堂，在沒有製作預算的高成本冒險活劇中，~~聯手揭開了王國最黑暗的一面~~(並沒有)
 
 # 目錄
 - [故事劇情](故事/冒險記錄)
@@ -22,5 +22,6 @@
 - [勢力組織](組織/列表)
 
 # 編輯指南
-[Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
-[D&D 5E 中文化](https://trpgtdnd.weebly.com/)
+- [Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
+
+- [D&D 5E 中文化](https://trpgtdnd.weebly.com/)
