@@ -26,4 +26,4 @@
 
 - [D&D 5E 中文化](https://trpgtdnd.weebly.com/) 中文化網站
 
-- [DND 5th Edition a pretty basic wiki](http://dnd5e.wikidot.com/) 比較後覺得比較完整的英文資料
+- [DND 5th Edition a pretty basic wiki](http://dnd5e.wikidot.com/) 比較後覺得較為完整的英文資料
