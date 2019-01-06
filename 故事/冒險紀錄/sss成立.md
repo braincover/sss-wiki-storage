@@ -1,5 +1,5 @@
-<!-- TITLE: Sss成立 -->
-<!-- SUBTITLE: A quick summary of Sss成立 -->
+<!-- TITLE: SSS成立 -->
+<!-- SUBTITLE: Super Starlight Striker -->
 
 # 跑團日期
 ## 2018/01/06
