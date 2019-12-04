@@ -26,7 +26,7 @@
 - [勢力組織](組織/列表)
 
 # 編輯指南
-- [Markdown Syntax](https://docs.requarks.io/wiki/user-guide/markdown-syntax)
+- [Markdown Syntax](https://docs-legacy.requarks.io/wiki/user-guide/markdown-syntax)
 
 - [D&D 5E 中文化](https://trpgtdnd.weebly.com/) 中文化網站
 
