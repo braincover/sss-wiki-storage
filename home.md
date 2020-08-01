@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2020-07-18T04:21:55.536Z
+date: 2020-08-01T05:16:45.770Z
 tags: 
 editor: markdown
 ---
@@ -38,6 +38,8 @@ editor: markdown
 # 編輯指南
 - [Markdown Syntax](https://docs-legacy.requarks.io/wiki/user-guide/markdown-syntax)
 
-- [D&D 5E 中文化](https://trpgtdnd.weebly.com/) 中文化網站
+- [D&D 5E 中文化](https://trpgtdnd.weebly.com/) PHB中文化網站
 
-- [5etools](https://5e.tools/5etools.html)
+- [5etools](https://5e.tools/5etools.html) 神網站
+
+- [5etools中文版](http://5etools.wayneh.tw/5etools.html) 神網站中文版
