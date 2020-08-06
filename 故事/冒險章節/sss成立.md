@@ -1,5 +1,11 @@
-<!-- TITLE: SSS成立 -->
-<!-- SUBTITLE: Super Starlight Striker -->
+---
+title: SSS成立
+description: Super Starlight Striker
+published: true
+date: 2020-08-06T03:22:45.819Z
+tags: 
+editor: markdown
+---
 
 # RP
 ## 2018/01/06
@@ -87,4 +93,4 @@
 [霍爾格](/角色/霍爾格)得到了一枚工藝之神的徽章，他將之別在乳頭上，並向其他隊員展示。
 
 
-下一章：[王國罪人](王國罪人)
+下一章：[王國罪人](/故事/冒險章節/王國罪人)
