@@ -2,7 +2,7 @@
 title: SSS成立
 description: Super Starlight Striker
 published: true
-date: 2020-09-05T10:32:34.109Z
+date: 2020-09-05T16:27:53.748Z
 tags: 
 editor: markdown
 ---
@@ -92,5 +92,7 @@ editor: markdown
 在先前的戰鬥中，加內特吃了許多火蛇惡魔毒液的苦頭，他將惡魔屍體上的毒腺全部摘下來。
 [霍爾格](/角色/霍爾格)得到了一枚工藝之神的徽章，他將之別在乳頭上，並向其他隊員展示。
 
+
+---
 
 下一章：[王國罪人](/故事/冒險章節/王國罪人)
