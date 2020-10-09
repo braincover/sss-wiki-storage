@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2020-08-01T05:16:45.770Z
+date: 2020-10-09T12:57:36.119Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,7 @@ editor: markdown
 # 緣起
 滅門血案的倖存者…
 
-~~貴族世家的私生子…~~
+貴族世家的私生子…
 
 神秘組織的被放逐者…
 
