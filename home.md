@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2020-10-13T08:32:32.701Z
+date: 2020-10-13T12:11:39.646Z
 tags: 
 editor: markdown
 ---
@@ -29,13 +29,13 @@ editor: markdown
 在沒有製作預算的高成本冒險活劇中，~~聯手揭開了王國最黑暗的一面…~~（並沒有）
 
 # 目錄
-- [故事劇情](故事) - [外傳](故事/外傳)
+- [故事劇情](/故事) - [外傳](故事/外傳)
 
-- [人物介紹](角色/列表)
+- [人物介紹](/角色)
 
-- [地理位置](地理/列表)
+- [地理位置](/地理)
 
-- [勢力組織](組織/列表)
+- [勢力組織](/組織)
 
 # 編輯指南
 - [Markdown Syntax](https://docs-legacy.requarks.io/wiki/user-guide/markdown-syntax)
