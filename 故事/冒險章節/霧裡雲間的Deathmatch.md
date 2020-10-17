@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2020-10-17T14:57:36.360Z
+date: 2020-10-17T15:14:06.114Z
 tags: 
 editor: markdown
 ---
@@ -207,6 +207,7 @@ S.S.S. 帶著烏馬贈予的寶物，開著豪華客船啟航返回馬希普大�
 
 艾爾溫的五環灼熱射線傷害輸給莉茲的火箭術
 ![whowouldwin.jpg](/whowouldwin.jpg)
+![1602947585516.png](/1602947585516.png)
 
 1300個銅幣(加內特嫌棄)
 一本上半部燒焦的書
