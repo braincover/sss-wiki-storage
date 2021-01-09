@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-01-09T09:10:50.263Z
+date: 2021-01-09T09:14:32.669Z
 tags: 
 editor: markdown
 ---
@@ -794,4 +794,4 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 
 獲得一件祕銀半身板甲
 
-
+## 2021/1/17
