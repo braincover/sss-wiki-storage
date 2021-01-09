@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2020-11-28T09:46:45.806Z
+date: 2021-01-09T05:37:51.571Z
 tags: 
 editor: markdown
 ---
@@ -700,7 +700,7 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 巨大機器人開始動了起來，從關節之間射出火焰。
 整個洞穴劇烈震動
 
-## 下次未定QQ
+## 2021/01/09
 
 
 
