@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-03-21T05:38:44.322Z
+date: 2021-03-21T05:39:14.983Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1293,6 +1293,5 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 
 ### 長休
 
-半夜
-半夜遠方傳來
+半夜遠方傳來巨大物體移動的大地震動
 
