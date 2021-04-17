@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-04-17T09:59:55.354Z
+date: 2021-04-17T10:02:55.034Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1466,5 +1466,5 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 
 加內特拿出麻繩將所有人串在一起，一馬當先往星之井的中央前進
 
-
+## 2021/05/23
 
