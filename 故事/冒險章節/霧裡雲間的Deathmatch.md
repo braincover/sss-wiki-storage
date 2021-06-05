@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-06-05T09:51:47.927Z
+date: 2021-06-05T09:52:16.959Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1658,7 +1658,8 @@ vs 北風領主
 在萊因沒注意的時候，其他決定了要回頭尋找蠻族老大，研議如何打倒吸血鬼領主
 
 
+## 2020/6/12
 
-
+由星之井出發
 
 
