@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-06-05T08:00:03.945Z
+date: 2021-06-05T08:01:59.200Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1639,4 +1639,6 @@ vs 北風領主
 
 #### 長休
 
+來到城市北門
+的確如北風領主所說，門外有個凹陷的坑洞
 
