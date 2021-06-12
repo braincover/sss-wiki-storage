@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-06-12T06:42:52.328Z
+date: 2021-06-12T07:56:45.357Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1707,6 +1707,6 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 由星之井出發
 
 遇到克雷恩里亞的使者 - 巴冷
-
+邪惡組織的遜砲幹部
 
 
