@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-06-12T08:53:36.460Z
+date: 2021-06-12T08:54:35.598Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1715,6 +1715,6 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 找到了一條河的河床，不見水流
 決定往上游移動尋找停水的原因
 
-
+在山洞中找到一個矮人聚落
 
 
