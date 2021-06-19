@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-06-19T09:50:26.182Z
+date: 2021-06-19T10:06:47.021Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -1789,4 +1789,9 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 往北走
 來到預計會遇到酋長的地方
 萊斯禮發現這裡是他遠古之前的家
+
+村莊已經被野人佔領了
+等酋長回來
+
+
 
