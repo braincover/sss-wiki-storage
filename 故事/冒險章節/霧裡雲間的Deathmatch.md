@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-07-10T07:31:41.124Z
+date: 2021-07-10T08:39:00.088Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -2076,5 +2076,7 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 屍體開始抽動起來
 一堆巨大
 
-
+破舊的煉金桌
+一副皮製圍裙(?)
+黃色的藥水
 
