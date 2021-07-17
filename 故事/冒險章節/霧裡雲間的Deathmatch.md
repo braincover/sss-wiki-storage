@@ -2,7 +2,7 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-07-17T09:03:05.535Z
+date: 2021-07-17T10:13:04.968Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
@@ -2144,3 +2144,6 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 艾爾溫動搖了
 
 拉弗克一張嘴就被揍了 開打
+
+## 2021/07/24
+
