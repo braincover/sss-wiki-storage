@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2021-08-21T12:54:10.908Z
+date: 2021-08-22T04:36:18.277Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-18T03:44:13.787Z
@@ -47,6 +47,7 @@ dateCreated: 2020-07-18T03:44:13.787Z
 在沒有製作預算的高成本冒險活劇中，~~聯手揭開了王國最黑暗的一面…~~（並沒有）
 
 # 目錄
+
 - [故事劇情](/故事) - [外傳](故事/外傳)
 
 - [人物介紹](/角色)
@@ -56,14 +57,15 @@ dateCreated: 2020-07-18T03:44:13.787Z
 - [勢力組織](/組織)
 
 # 編輯指南
+
 - [Markdown Syntax](https://docs-legacy.requarks.io/wiki/user-guide/markdown-syntax)
 
 - [D&D 5E 中文化](https://trpgtdnd.weebly.com/) 官方規則中文化網站
 
 - [5etools](https://5e.tools/5etools.html) 神網站
 
-- [5etools中文版](http://5etools.wayneh.tw/5etools.html) 神網站中文版
+- [5etools中文版(hazmole)](http://5etools.wayneh.tw/5etools.html) 神網站中文版
 
-- [5etools中文版(rugini)](https://qwas368.github.io/5etools/5etools.html) 神網站中文版二代
+- [5etools中文版(rugini)](https://qwas368.github.io/5etools/5etools.html) 神網站中文版第二代
 
-- [5etools簡中版](https://5e.dickytwister.org/5etools.html) 神網站簡體中文版
+- [5etools中文版(hmqgg)](https://5e.dickytwister.org/5etools.html) 神網站中文版第三代(簡中)
