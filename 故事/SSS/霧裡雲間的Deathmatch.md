@@ -2,14 +2,14 @@
 title: 霧裡雲間的Deathmatch
 description: 不好啦～迷霧山脈出大事啦
 published: true
-date: 2021-08-23T10:42:03.520Z
+date: 2021-08-24T01:42:49.591Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-11T05:48:38.656Z
 ---
 
 # 前情提要
-上一章 : [哈馬特之旅](/故事/冒險章節/哈馬特之旅)
+上一章 : [哈馬特之旅](/故事/SSS/哈馬特之旅)
 S.S.S. 帶著烏馬贈予的寶物，開著豪華客船啟航返回馬希普大陸。
 出發，總要有個方向，走，我們到多特去。
 
@@ -2056,6 +2056,8 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 
 ## 2021/07/10
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRaF0TiUtCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 艾爾溫嘗試推動那道門，大門文風不動
 門上有魔法符文畫著一些圖形，加內特隨便打了一發魔法，顯示出另外一個紅色的圖案
 艾爾溫再摸了一次門，門上的符文換了一個有眼睛形狀的樣子
@@ -2111,6 +2113,8 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 
 ## 2021/07/17
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RxicblT-J6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 萊因 巨鎚
 虎錫 攀爬繩
 萊絲禮 月光細劍
@@ -2147,6 +2151,8 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 拉弗克一張嘴就被揍了 開打
 
 ## 2021/07/24
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HucgHaldmAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 打敗了特雷恩里亞
 他坦承了他所知道的事
@@ -2188,4 +2194,4 @@ sweeper3536聽完萊因的決定，從自己胸口抓出一塊發光的水晶，
 ---
 
 
-下一章：[泥沼遺跡](/故事/冒險章節/泥沼遺跡)
+下一章：[泥沼遺跡](/故事/SSS/泥沼遺跡)
