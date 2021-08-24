@@ -2,9 +2,10 @@
 title: SSS成立
 description: Super Starlight Striker
 published: true
-date: 2020-09-05T16:27:53.748Z
+date: 2021-08-24T01:37:36.047Z
 tags: 
 editor: markdown
+dateCreated: 2020-07-18T03:41:50.250Z
 ---
 
 # RP
@@ -95,4 +96,4 @@ editor: markdown
 
 ---
 
-下一章：[王國罪人](/故事/冒險章節/王國罪人)
+下一章：[王國罪人](/故事/SSS/王國罪人)
