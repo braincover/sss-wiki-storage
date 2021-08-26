@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2021-08-26T14:51:21.930Z
+date: 2021-08-26T14:52:03.546Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-18T03:44:13.787Z
@@ -25,7 +25,7 @@ dateCreated: 2020-07-18T03:44:13.787Z
 → [關閉太陽](/故事/冒險章節/太陽不再升起的那一天)
 ## 主題曲
 (希望可以把不小心跑出來的動XX車洗掉)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vt78cMAgCDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vt78cMAgCDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # SSS(已完結)
 
