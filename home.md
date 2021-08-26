@@ -2,7 +2,7 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2021-08-24T12:25:24.982Z
+date: 2021-08-26T14:51:21.930Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-18T03:44:13.787Z
@@ -22,7 +22,11 @@ dateCreated: 2020-07-18T03:44:13.787Z
 懼角村周邊的針葉林往往會出現各種猛獸干擾村民的狩獵活動，在缺少食物的季節牠們也越發兇狠。
 
 「尖魚叉」的老闆索拉，在交班給店員後就先行上樓。他必須在樓下那些醉鬼喊叫聲的干擾下抓緊時間休息，才能在隔天早起開始收拾宴會的殘局…
-→ [太陽不再升起的那一天](/故事/冒險章節/太陽不再升起的那一天)
+→ [關閉太陽](/故事/冒險章節/太陽不再升起的那一天)
+## 主題曲
+(希望可以把不小心跑出來的動XX車洗掉)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vt78cMAgCDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # SSS(已完結)
 
 ## 緣起
