@@ -2,13 +2,13 @@
 title: 首頁
 description: 安安我首頁ㄛ
 published: true
-date: 2021-08-30T12:58:15.428Z
+date: 2021-09-04T12:46:07.170Z
 tags: 
 editor: markdown
 dateCreated: 2020-07-18T03:44:13.787Z
 ---
 
-# SSS Iceborn(仮)
+# Diamond Dust
 ## 緣起
 彩色的極光閃耀在寒冷的夜空，在冰天雪地中的懼角村，全體村民正在「尖魚叉」酒館內進行整夜的狂歡。
 
